@@ -2,4 +2,4 @@
 
 Character selection
 ## [Male]()
-## [female](../female.md)
+## [female](../CYOA-academy/female.md)
