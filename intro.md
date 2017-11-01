@@ -2,4 +2,4 @@
 ---
 ### Are you a -
 ## [Male](male.md)
-## [female](female.md)
+## [Female](female.md)
