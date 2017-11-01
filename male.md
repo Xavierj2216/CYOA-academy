@@ -1,4 +1,4 @@
-## _Born into a poor family, you were the first in the entire village to have awaken as a Qi Warrior. Your parents, desperate to give their hope a chance, begged everyone within the village to chip in in order to send you to the Academy._
+## _Born into a poor family, you were the first in the entire village to have awaken as a Qi Warrior. Your parents, desperate to give their hope a chance, pleaded their neighbors for any sort of money just to send you to the Academy. You felt immense guilt as you watched your parents grovel at the doorway of every housing, you decided to take the chance they provided you with the utmost motivation and dedication._
 
 ---
 ### **Upon arriving at the Academy entrance**
