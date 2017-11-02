@@ -6,4 +6,4 @@
 **"You two are up, get onto the stage."**
 
 ---
-## [You obey the instructor and make your way towards the stage](../combat2.md)
+## [You obey the instructor and make your way towards the stage](../physical-exam-stuff/combat2.md)
