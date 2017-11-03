@@ -1,3 +1,3 @@
-- You raise your weapon in order to block his downward swing but you were met with unexpected force. The blunt axe in your hands is broken into shards as you're laying on the ground.
-- "How pathethic, a commoner will always be a peasant. I, "
-- [you were not accepted](../denial)
+### You raise your weapon in order to block his downward swing but you were met with unexpected force. The blunt axe in your hands is broken into shards as you're laying on the ground.
+## "How pathethic! A commoner dare go against me, Xu Fengshi! Begone from my sight you vermin!"
+### [Proctor Xiang frowns at the noble but shakes his head and declares the noble, Xu Fengshi, as the winner and will be accepted into the school's combat division.](../denial.md)
