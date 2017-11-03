@@ -3,7 +3,7 @@
 ##### "A bunch of rats decided to take the physical exam, eh?"  
 ##### "Let's make this quick then. Tournament system, two rounds per person."
 ##### Immediately after the instructor finishes, he points towards you and another person.  
-**"You two are up, get onto the stage."**
+##### "You two are up, get onto the stage!"
 
 ---
-## [You obey the instructor and make your way towards the stage](../physical-exam-stuff/combat2.md)
+## [You obey the instructor and make your way towards the stage](../physical-exam/combat2.md)
