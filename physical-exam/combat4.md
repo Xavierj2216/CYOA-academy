@@ -1,0 +1,2 @@
+- You raise your weapon in order to block his downward swing but you were met with unexpected force. The blunt axe in your hands is broken into shards as you're laying on the ground.
+- "How pathethic, a commoner will always be a peasant. I, "

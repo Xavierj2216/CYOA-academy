@@ -6,4 +6,4 @@
 #### Your opponent comes rushing in towards you, clearly looking down upon you gripping onto his weapon .
 ### - [You lower your position in order to dodge his swing](combat3.md)
 ## or
-### - [You raise your weapon to block his swing](combat3.md)
+### - [You raise your weapon to block his swing](combat4.md)
