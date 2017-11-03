@@ -8,5 +8,5 @@
 
 ---
 ### You choose to take the:
-#### [Written Exam](written-exam/written.md)
+#### [Written Exam](written-exam/written1.md)
 #### [Combat Exam](physical-exam/combat1.md)
