@@ -6,5 +6,4 @@
 ##### "You two are up, get onto the stage!"
 
 ---
-## [You obey the instructor and make your way towards the stage (Choose this if you're male)](../physical-exam/combat2.md)
-## [You obey the instructor and make your ways towards the stage (Chosoe this if you selected Female)](../physical-exam/combat2F.md)
+## [You obey the instructor and make your way towards the stage](../physical-exam/combat2.md)
