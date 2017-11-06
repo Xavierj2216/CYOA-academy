@@ -2,3 +2,5 @@
 #### "Come, come! I'll accept you as my student's disciple! I see great potential within you. Once you reach Xiang'er's expectations, I, General Lu, shall take you on as my own!"  
 
 ## You have been accepted into the Academy.
+---
+# [Start Over](intro.md)
