@@ -4,11 +4,13 @@
 #### "You have been accepted into this academy, report to class 1B tommorrow"
 ##### Information about your class
 
-teacher: strategist Liu (liu bei)
+Teacher: Strategist Liu (Liu Bei)
 
-subject: strategic core usage
+Subject: Basic and Advanced Core Manipulation
 
-classmates: Nerds
+Classmates: Gu Bei, Huang Zhou, Sang Wan, Xa Fangzi, Wu Shui, Miao Jiang, Shi Wu, Xiang Tian, Wang Yu, Liu Fei
 
 ---
 #### "After you finish reading the words of flame turn into fire particle, then disappears" 
+
+[Start over](../intro.md)
