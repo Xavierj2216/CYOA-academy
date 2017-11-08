@@ -1,3 +1,4 @@
+[![chinese-sep-related-cyoa.jpg](https://s1.postimg.org/6d2q05du4v/chinese-sep-related-cyoa.jpg)](https://postimg.org/image/1mxh1qm7rf/)
 ## You, along with other examinees, enter the examination room.
 
 ---
